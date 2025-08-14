@@ -1,8 +1,7 @@
-pandas
 streamlit
-matplotlib.pyplot
-plotly.express
+pandas
+plotly
 sqlalchemy
 seaborn
+matplotlib
 requests
-os

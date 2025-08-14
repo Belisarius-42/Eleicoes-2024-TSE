@@ -1,0 +1,16 @@
+
+data/database.db
+
+
+venv/
+.venv/
+
+
+__pycache__/
+*.pyc
+
+.vscode/
+.idea/
+
+
+.qodo/

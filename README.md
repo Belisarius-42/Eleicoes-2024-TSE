@@ -51,7 +51,3 @@ O projeto segue um pipeline de dados claro, desde a origem até a visualização
 
 
 ## ✍️ Bruno Henrique
-
-* **[SEU NOME AQUI]**
-* **LinkedIn:** [SEU LINKEDIN AQUI]
-* **GitHub:** [SEU GITHUB AQUI]

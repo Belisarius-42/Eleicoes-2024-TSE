@@ -9,8 +9,6 @@
 
 ### 🚀Acesse o Dashboard Online Aqui:
 https://eleicoes2024-tse.streamlit.app/
-https://eleicoes2024-tse.streamlit.app/
-https://eleicoes2024-tse.streamlit.app/
 
 ---
 
